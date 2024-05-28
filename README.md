@@ -1,6 +1,6 @@
-# coding-assignment-FAIRmat
+# ohm-law-physics
 
-# Repo : https://github.com/deepaktomar2031/coding-assignment-FAIRmat/
+# Repo : https://github.com/deepaktomar2031/ohm-law-physics
 ## Branch:
 - master - Source Branch
 
